@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "name" : "Sport Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 50,
+        "category": "Sports",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    },
+    {
+        "id" : 2,
+        "name" : "Music Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 100,
+        "category": "Song",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    },
+    {
+        "id" : 3,
+        "name" : "Story Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    },
+    {
+        "id" : 4,
+        "name" : "Story Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    },
+    {
+        "id" : 5,
+        "name" : "Story Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    },
+    {
+        "id" : 6,
+        "name" : "Story Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    },
+    {
+        "id" : 7,
+        "name" : "Story Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    },
+    {
+        "id" : 8,
+        "name" : "Story Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    },
+    {
+        "id" : 9,
+        "name" : "Food Book",
+        "title" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "price" : 230,
+        "category": "Food",
+        "image" : "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1732081605~exp=1732085205~hmac=b9287feb271efe70b6e2aee5251f4c25938f9b36bc593f93088409b5165ecbe1&w=826"
+    }
+]
